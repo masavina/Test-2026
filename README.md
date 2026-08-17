@@ -6,4 +6,5 @@
 
 1. üks
 1. kaks
-1. kolm (parem panna nii, siis pole probkeemi numeratsiooniga)
+1. kolm
+<!--parem panna nii, siis pole probkeemi numeratsiooniga   -->
